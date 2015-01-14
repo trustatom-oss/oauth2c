@@ -3,7 +3,7 @@ defmodule OAuth2.Mixfile do
 
   def project do
     [
-      app: :oauth2,
+      app: :oauth2c,
       version: "0.0.3",
       elixir: "~> 1.0",
       deps: deps,
